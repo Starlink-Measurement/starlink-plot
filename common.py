@@ -22,7 +22,10 @@ plot_params = {
     'legend.title_fontsize': 9
 }
 sns_params = {
+    'figure.figsize': (7.16, 3),
+    'figure.dpi': 300,
     "font.size": 9,
+    'figure.titlesize': 9,
     "axes.titlesize": 9,
     "axes.labelsize": 9, 
     "ytick.labelsize": 8, 
