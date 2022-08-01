@@ -8,6 +8,7 @@ jupyter = "*"
 jupyterlab = "*"
 jupyterlab-vim = "*"
 nodejs = "*"
+mistune = "*"
 
 [dev-packages]
 
