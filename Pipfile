@@ -9,6 +9,7 @@ jupyterlab = "*"
 jupyterlab-vim = "*"
 nodejs = "*"
 mistune = "*"
+nbconvert = "*"
 
 [dev-packages]
 
