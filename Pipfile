@@ -10,6 +10,8 @@ jupyterlab-vim = "*"
 nodejs = "*"
 mistune = "*"
 nbconvert = "*"
+jupyter-core = "*"
+certifi = "*"
 
 [dev-packages]
 
