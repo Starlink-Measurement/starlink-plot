@@ -6,8 +6,8 @@ REGION_MAP = {'af-south-1':'Cape Town', 'ap-south-1':'Mumbai', 'ap-southeast-1':
                   'ap-northeast-1':'Tokyo', 'eu-west-2':'London', 'me-south-1':'Bahrain', 'sa-east-1':'Sao Paulo', 
               'us-west-1':'N. California'}
 
-REGION_ORDER = ['N. California', 'N. Virginia', 'Tokyo', 'London', 'Sydney', 'Singapore',
-            'Sao Paulo', 'Bahrain', 'Mumbai', 'Cape Town']
+REGION_ORDER = ['N. California', 'N. Virginia', 'Tokyo', 'London', 'Sydney', 
+                'Singapore', 'Sao Paulo', 'Bahrain', 'Mumbai', 'Cape Town']
 
 
 N_STARLINK = 'Starlink'

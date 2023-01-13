@@ -1,8 +1,13 @@
 # Starlink Plot
 
-Set your Jupyter Lab kernel timeout config in `~/.jupyter/jupyter_lab_config.py` to a high number such as 3 hours:
+Set the Jupyter Notebook kernel timeout config in `~/.jupyter/jupyter_notebook_config.py` to a high number such as 3 hours:
 ```
 c.MappingKernelManager.kernel_info_timeout = 10800
+```
+
+Set the buffer or memory to the maximum available (Eg. 24 GB):
+```
+c.ServerApp.max_buffer_size = 25769803776
 ```
 
 ## Simplified Steps
