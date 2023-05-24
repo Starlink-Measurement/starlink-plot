@@ -12,6 +12,7 @@ mistune = "*"
 nbconvert = "*"
 jupyter-core = "*"
 certifi = "*"
+requests = "*"
 
 [dev-packages]
 
