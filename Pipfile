@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
-jupyterlab = "*"
 jupyterlab-vim = "*"
 nodejs = "*"
 mistune = "*"
@@ -13,6 +12,7 @@ nbconvert = "*"
 jupyter-core = "*"
 certifi = "*"
 requests = "*"
+ipython = "==8.8.0"
 
 [dev-packages]
 
