@@ -50,7 +50,7 @@ WIDTH_FULL = 7.15
 
 region_mapping = dict(Africa_Cape_Town='Cape Town', Asia_Pacific_Mumbai='Mumbai', Asia_Pacific_Singapore='Singapore',
                      Asia_Pacific_Sydney='Sydney', Asia_Pacific_Tokyo='Tokyo', Europe_London='London',
-                     Middle_East_Bahrain='Bahrain', South_America_Sao_Paulo='Sao Paulo', US_West_N_California='N. California', US_East_N_Virginia='N. Virginia')
+                     Middle_East_Bahrain='Bahrain', South_America_Sao_Paulo='Sao Paulo', US_West_N_California='N. California', US_East_N_Virginia='N. Virginia', Canada_Central='Canada Central')
 
 def combine_csvs(src, index_col=0, header='infer'):
     dfs = []
