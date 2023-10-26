@@ -13,6 +13,7 @@ jupyter-core = "*"
 certifi = "*"
 requests = "*"
 ipython = "==8.8.0"
+jupyterlab = "*"
 
 [dev-packages]
 
