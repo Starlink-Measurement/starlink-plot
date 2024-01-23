@@ -12,8 +12,9 @@ nbconvert = "*"
 jupyter-core = "*"
 certifi = "*"
 requests = "*"
-ipython = "==8.8.0"
+ipython = "*"
 jupyterlab = "*"
+jinja2 = "*"
 
 [dev-packages]
 
